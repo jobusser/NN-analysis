@@ -11,7 +11,7 @@ I implemented the original algorithms of these two as propsed in the respective 
 
 #### The tests
 The data was found online and introduce problems of varying difficulty. MNIST, or handwritten digit classification, is the toughest amongst them.
-The tests involved several iterations to get an overall average.
+The data is not added due to the space it would require. You can however download datasets online and test the code out yourself :)
 
 It does take a long time to run (~1 hour).
 
@@ -24,6 +24,4 @@ The file
 
 ## Source files
 * All results are in notebooks, with the graphs they produced in ``artefacts''. It may not be the most clear as to what belongs where. I will hopefully catch some time to improve it.
-* data can be found in ``data''.
-
 
